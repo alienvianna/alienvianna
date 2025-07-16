@@ -2,8 +2,8 @@
 ### Hi, I'm Aline Vianna! 🛸
 #### Software Developer 💻
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
-https://br.linkedin.com/in/aline-vianna-68480613a
+<a href="https://br.linkedin.com/in/aline-vianna-68480613a"> <img align="center" alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
+
 
 #### Technologies Used:
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)"/>
